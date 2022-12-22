@@ -91,7 +91,7 @@ const NavLi = styled.li`
     border-left: 1px solid ${({ theme }) => theme.bc};
   }
   font-size: 3rem;
-  word-spacing: 5rem;
+  word-spacing: 2rem;
   cursor: pointer;
   &:hover {
     background-color: ${({ theme }) => theme.red};
