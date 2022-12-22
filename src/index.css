@@ -1,15 +1,7 @@
 @font-face {
   font-family: 'dokdo';
-  src: url(font/EastSeaDokdo-Regular.ttf) format('woff'),
-    url(font/EastSeaDokdo-Regular.ttf) format('truetype');
-  font-weight: normal;
-  font-style: normal;
-}
-
-@font-face {
-  font-family: 'dokdo2';
-  src: url(/EastSeaDokdo-Regular.ttf) format('woff'),
-    url(/EastSeaDokdo-Regular.ttf) format('woff');
+  src: url(font/EastSeaDokdo-Regular.ttf) format('truetype'),
+    url(font/EastSeaDokdo-Regular.ttf) format('woff');
   font-weight: normal;
   font-style: normal;
 }
@@ -101,7 +93,7 @@ button {
   font-size: 100%;
   font: inherit;
   vertical-align: baseline;
-  font-family: dokdo, dokdo2;
+  font-family: dokdo;
 }
 /* HTML5 display-role reset for older browsers */
 article,

@@ -1,8 +1,5 @@
-import { useRecoilValue } from 'recoil';
 import styled from 'styled-components';
 import { BiSearch } from 'react-icons/bi';
-
-import { fetchTest } from 'atoms/user';
 
 import bi from 'img/bi.png';
 import sord from 'img/sord.png';
@@ -199,9 +196,6 @@ const CardBackground = styled.div`
 const Footer = styled.section``;
 
 export default function UserList() {
-  const users = useRecoilValue(fetchTest);
-  console.log(users);
-
   return (
     <Container>
       <Wrap>
