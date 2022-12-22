@@ -75,7 +75,7 @@ const Nav = styled.div`
 const NavUl = styled.ul`
   display: flex;
   flex-direction: row;
-  height: 50px;
+  height: 4rem;
   justify-content: center;
   border: 1px solid ${({ theme }) => theme.bc};
   border-radius: 5px;
@@ -90,8 +90,8 @@ const NavLi = styled.li`
   & + & {
     border-left: 1px solid ${({ theme }) => theme.bc};
   }
-  font-size: 40px;
-  word-spacing: 100px;
+  font-size: 3rem;
+  word-spacing: 5rem;
   cursor: pointer;
   &:hover {
     background-color: ${({ theme }) => theme.red};
