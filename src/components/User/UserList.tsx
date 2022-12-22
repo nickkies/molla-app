@@ -177,7 +177,7 @@ const P = styled.p<{ cnt?: number }>`
   padding: 10px;
   min-width: ${({ cnt }) =>
     `calc(${cnt ? Math.floor(100 / cnt) : 100}% - 20px)`};
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   z-index: 1;
 `;
 
