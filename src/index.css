@@ -1,10 +1,11 @@
 @font-face {
   font-family: 'dokdo';
-  src: url(css/EastSeaDokdo-Regular.ttf) format('truetype'),
-    url(css/EastSeaDokdo-Regular.ttf) format('woff');
+  src: url(font/EastSeaDokdo-Regular.ttf) format('truetype'),
+    url(font/EastSeaDokdo-Regular.ttf) format('woff');
   font-weight: normal;
   font-style: normal;
 }
+
 html,
 body,
 div,
