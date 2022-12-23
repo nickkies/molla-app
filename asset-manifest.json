@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/molla-app/static/css/main.3f4548b6.css",
-    "main.js": "/molla-app/static/js/main.2d84b80f.js",
+    "main.js": "/molla-app/static/js/main.4df98c92.js",
     "static/js/27.998aab9b.chunk.js": "/molla-app/static/js/27.998aab9b.chunk.js",
     "static/media/EastSeaDokdo-Regular.ttf": "/molla-app/static/media/EastSeaDokdo-Regular.8c3978302b9aaca7cf99.ttf",
     "static/media/sord.png": "/molla-app/static/media/sord.68d62155ccd368a1696d.png",
@@ -10,6 +10,6 @@
   },
   "entrypoints": [
     "static/css/main.3f4548b6.css",
-    "static/js/main.2d84b80f.js"
+    "static/js/main.4df98c92.js"
   ]
 }
